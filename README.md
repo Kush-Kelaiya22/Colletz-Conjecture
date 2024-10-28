@@ -1,5 +1,5 @@
 # README
-The infamous Colletz Conjecture is quite a hassle to
+The infamous Colletz Conjecture is quite a hassle to find the steps and know the sequence manually. This simple C program allows a person to find the steps taken given the largest value achieve is 2^64 due to the size limitation.
 
 # LICENSE
 
